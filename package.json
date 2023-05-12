@@ -14,6 +14,7 @@
     "tailwindcss": "^3.3.2"
   },
   "dependencies": {
-    "@fontsource/mulish": "^4.5.14"
+    "@fontsource/mulish": "^4.5.14",
+    "hyperscript.org": "^0.9.8"
   }
 }
